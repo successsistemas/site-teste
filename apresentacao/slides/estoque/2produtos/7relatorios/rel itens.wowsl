@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>modelo ok slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/shady/</ImageTemplate>
+            <ImageTemplateName>Shady</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Success/Desktop/Telas/8controleestoque/consultas/4relitens/slide_relitens.html</PublishFileName>
+            <PublishIndex>slide_relitens.html</PublishIndex>
+            <PublishPath>C:/Users/Success/Desktop/Telas/8controleestoque/consultas/4relitens</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>13</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>shady</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>print/1relite.jpg</url>
+                <title>emissão relatório itens de estoque</title>
+                <filesize>154548</filesize>
+            </Image>
+            <Image>
+                <url>print/1relitesemgiro.jpg</url>
+                <title>emissão relatório itens de estoque - com giro /  sem giro</title>
+                <filesize>193377</filesize>
+            </Image>
+            <Image>
+                <url>print/2saldozero.jpg</url>
+                <title>emissão relatório itens de estoque - itens com saldo zero</title>
+                <filesize>155692</filesize>
+            </Image>
+            <Image>
+                <url>print/3custo.jpg</url>
+                <title>emissão relatório itens de estoque - custo</title>
+                <filesize>157816</filesize>
+            </Image>
+            <Image>
+                <url>print/4saldo.jpg</url>
+                <title>emissão relatório itens de estoque - saldo</title>
+                <filesize>164282</filesize>
+            </Image>
+            <Image>
+                <url>print/5rel.jpg</url>
+                <title> relatório itens de estoque </title>
+                <filesize>257818</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

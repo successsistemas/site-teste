@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>modelo ok slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/shady/</ImageTemplate>
+            <ImageTemplateName>Shady</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Success/Desktop/Telas/5saidapedido/relatorios/slide_relpedidos.html</PublishFileName>
+            <PublishIndex>slide_relpedidos.html</PublishIndex>
+            <PublishPath>C:/Users/Success/Desktop/Telas/5saidapedido/relatorios</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>13</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>shady</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>print/1emi.jpg</url>
+                <title>relatório saída de estoque por emissão</title>
+                <filesize>134641</filesize>
+            </Image>
+            <Image>
+                <url>print/2pedido.jpg</url>
+                <title>relatório saída de estoque por emissão - Pedidos </title>
+                <filesize>167703</filesize>
+            </Image>
+            <Image>
+                <url>print/3tipo.jpg</url>
+                <title>relatório saída de estoque por emissão - tipo</title>
+                <filesize>166680</filesize>
+            </Image>
+            <Image>
+                <url>print/4dedu.jpg</url>
+                <title>relatório saída de estoque por emissão - deduzir devoluções</title>
+                <filesize>169197</filesize>
+            </Image>
+            <Image>
+                <url>print/5lucro.jpg</url>
+                <title>relatório saída de estoque por emissão - apresentar lucro</title>
+                <filesize>166813</filesize>
+            </Image>
+            <Image>
+                <url>print/6dedu.jpg</url>
+                <title>apresentação do relatório com opções selecionadas</title>
+                <filesize>137162</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

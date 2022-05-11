@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>modelo ok slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/shady/</ImageTemplate>
+            <ImageTemplateName>Shady</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Success/Desktop/Telas/4orcamento/slide_orcamento.html</PublishFileName>
+            <PublishIndex>slide_orcamento.html</PublishIndex>
+            <PublishPath>C:/Users/Success/Desktop/Telas/4orcamento</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>13</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>shady</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>print/1rel.jpg</url>
+                <title>emissão relatório orçamento de estoque </title>
+                <filesize>99454</filesize>
+            </Image>
+            <Image>
+                <url>print/2rel2.jpg</url>
+                <title>emissão relatório orçamento de estoque - status</title>
+                <filesize>97696</filesize>
+            </Image>
+            <Image>
+                <url>print/3rel3.jpg</url>
+                <title>emissão relatório orçamento de estoque - tipo </title>
+                <filesize>98645</filesize>
+            </Image>
+            <Image>
+                <url>print/4rel.jpg</url>
+                <title>emissão relatório orçamento de estoque - impressão </title>
+                <filesize>69213</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

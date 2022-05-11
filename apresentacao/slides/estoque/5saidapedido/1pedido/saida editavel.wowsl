@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>modelo ok slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/shady/</ImageTemplate>
+            <ImageTemplateName>Shady</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Success/Desktop/Telas/5saidapedido/slide_saida.html</PublishFileName>
+            <PublishIndex>slide_saida.html</PublishIndex>
+            <PublishPath>C:/Users/Success/Desktop/Telas/5saidapedido</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>13</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>shady</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>print/1cabe.jpg</url>
+                <title>saída de estoque - Venda de estoque</title>
+                <filesize>144797</filesize>
+            </Image>
+            <Image>
+                <url>print/2pro.jpg</url>
+                <title>saída de estoque - inclusão produtos</title>
+                <filesize>177533</filesize>
+            </Image>
+            <Image>
+                <url>print/3tota.jpg</url>
+                <title>saída de estoque - totalização</title>
+                <filesize>157139</filesize>
+            </Image>
+            <Image>
+                <url>print/3titu.jpg</url>
+                <title>saída de estoque - inclusão título a receber</title>
+                <filesize>176721</filesize>
+            </Image>
+            <Image>
+                <url>print/4dupli.jpg</url>
+                <title>saída de estoque - impressão duplicata </title>
+                <filesize>116467</filesize>
+            </Image>
+            <Image>
+                <url>print/5opcoes.jpg</url>
+                <title>saída de estoque - opções de pedido </title>
+                <filesize>150549</filesize>
+            </Image>
+            <Image>
+                <url>print/6impressao.jpg</url>
+                <title>saída de estoque - documento auxiliar a venda (DAV)</title>
+                <filesize>98330</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

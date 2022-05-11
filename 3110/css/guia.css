@@ -1,0 +1,198 @@
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 1.5em;
+	color: #3e3e3e;
+	text-align: center;
+	margin: 0px;
+	background: #E3EFFD url(../imagens/fundo_topo.jpg) repeat-x  center top;
+	
+}
+
+td {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.5em;
+	color: #000000;
+}
+.topo {
+	margin-left:auto; /* centralizar */
+	margin-right:auto; /* centralizar */
+	width: 980px;
+	text-align: center;
+}
+.creditos {
+	margin-left:auto; /* centralizar */
+	margin-right:auto; /* centralizar */
+	width: 100%;
+	height: 50px;
+	padding-top: 10px;
+	background: #60C5FB url(../imagens/fundo_baixo.jpg) repeat-x  center bottom;
+	text-align: center;
+}
+.tabela_geral {
+	margin-left:auto; /* centralizar */
+	margin-right:auto; /* centralizar */	
+	width:980px;
+	border: 0px solid #000000;
+}
+.tabela_geral_acima {
+	height: 10px;
+	background-image:url(../imagens/tabela_geral_acima.png);
+}
+.tabela_geral_centro {
+	background-image:url(../imagens/tabela_geral_centro.png);
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.tabela_geral_abaixo {
+	height: 10px;
+	background-image:url(../imagens/tabela_geral_abaixo.png);
+}
+.menu {
+	width: 200px;
+	background-color: #D8F0FE;
+	vertical-align:top;
+	font-size: 12px;
+	font-weight: bold;
+}
+.conteudo { /* 760px */
+	background-color: #FFFFFF;
+	vertical-align:top;
+}
+.conteudo_div /* 760 menos 5px margem ESQ - 5px margem DIR */ {
+	padding: 5px;
+	text-align: left;
+}
+.div_solicitacao {
+	width: 750px;
+	border: 0px solid #FFFFFF;
+}
+.div_solicitacao_td_titulo {
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-weight: bold;
+	text-align:left;
+}
+.div_solicitacao_tr1 {
+	background-color: #F1F1F1;
+	cursor: pointer;
+}
+.div_solicitacao_tr2 {
+	padding-left: 2px;
+	background-color: #FFFFFF;
+	cursor: pointer;
+}
+.div_solicitacao_td{
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align:left;
+}
+.div_solicitacao_td_abaixo{
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 5px;
+	text-align:left;
+}
+.div_solicitacao_extra {
+	border: 1px solid #CCCCCC;
+	width:748px;
+	background-color:#FFFFFF;
+	text-align:left;
+}
+
+a:link, a:visited { color: #3e3e3e; text-decoration: none; } 
+a:active, a:hover { color: #3e3e3e; text-decoration: none; }
+
+a span{
+	display:none;
+	font-size: 11px;
+}
+a:hover span{
+	display:block;
+	position:absolute;
+	background:#d9e3e8;
+	border: 1px solid #00354d;
+	color:#00354d;
+	padding: 2px;
+	z-index:22;
+	text-align:left;
+	width: 300px;
+	margin-top: 10px;
+}
+.menu_solicitacao {
+	border: 1px solid #CCCCCC;
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.menu_solicitacao a:link   {text-decoration:none; }
+.menu_solicitacao a:hover   {text-decoration:underline; }
+.menu_solicitacao a:visited   {text-decoration:none; }
+.menu_solicitacao a:active   {text-decoration:none; }
+
+.caminho {
+float: inherit;
+text-align:left;
+font-size: 12px;
+color: #CCCCCC;
+padding-bottom: 5px;
+}
+.caminho a:link   {color:#CCCCCC; text-decoration:none; }
+.caminho a:hover   {color:#666666; text-decoration:none; }
+.caminho a:visited   {color:#CCCCCC; text-decoration:none; }
+.caminho a:active   {color:#CCCCCC; text-decoration:none; }
+
+.voltar {
+float:right;
+font-size: 12px;
+font-weight:bold;
+}
+.voltar a:link   {color:#003399; text-decoration:none; }
+.voltar a:hover   {color:#CCCCCC; text-decoration:none; }
+.voltar a:visited   {color:#003399; text-decoration:none; }
+.voltar a:active   {color:#003399; text-decoration:none; }
+
+.titulos {
+	text-align: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight:bold;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.usuario_logado {
+	float:right;
+	font-size: 12px;
+	margin-top: 5px;
+	font-style:italic;
+	color:#999999;
+}
+
+form {
+margin: 0 0 0 0;
+padding: 0 0 0 0;
+}
+input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+}
+select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+}
+.label_solicitacao {
+	font-style:italic;
+	color: #999999;
+}

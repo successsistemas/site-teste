@@ -1,0 +1,83 @@
+body {
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	font-size: 11px;
+	margin: 0px;
+	color: #000000;
+	overflow-y: scroll;
+}
+table {
+	width: 100%;
+}
+td {
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	font-size: 11px;
+
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+
+	vertical-align: top;
+}
+form {
+margin: 0 0 0 0;
+padding: 0 0 0 0;
+}
+input {
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+}
+select {
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+}
+.textarea_medida {
+	font-family: Verdana; 
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+}
+.div_solicitacao_linhas {
+
+	margin-top: 4px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 98%;
+}
+.div_solicitacao_linhas2 {
+
+	margin-top: 4px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 98%;
+	
+	border: 1px solid #4297d7; 
+	background: #5c9ccc url(imagens/jqgrid/ui-bg_gloss-wave_55_5c9ccc_500x100.png) 50% 50% repeat-x; 
+	color: #ffffff; 
+	font-weight: bold;
+}
+.div_solicitacao_linhas3 {
+
+	margin-top: 4px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 98%;
+	
+	border: 1px solid #c5dbec; 
+	background: #dfeffc url(imagens/jqgrid/ui-bg_glass_85_dfeffc_1x400.png) 50% 50% repeat-x; 
+	color: #000000;
+}
+.label_solicitacao {
+	color: #2e6e9e;
+	font-weight: bold;
+}
+.label_solicitacao2 {
+	color: #FFFFFF;
+}

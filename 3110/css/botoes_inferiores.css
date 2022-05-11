@@ -1,0 +1,59 @@
+.div_botoes_inferiores {
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	
+	border: 1px solid #c5dbec; 
+	background: #dfeffc url(imagens/jqgrid/ui-bg_glass_85_dfeffc_1x400.png) 50% 50% repeat-x; 
+	color: #000000;
+}
+#botao_inferior {
+border: 2px solid #FFFFFF;
+background-image:url(../imagens/botao_inferior.jpg);
+color: #2e6e9e; 
+
+font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+text-decoration: none;
+font-size: 11px;
+font-weight: bold;
+
+padding-left: 10px; 
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+cursor: pointer;
+}
+.botao_inferior_class {
+border: 2px solid #FFFFFF;
+background-image:url(../imagens/botao_inferior.jpg);
+color: #2e6e9e; 
+
+font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+text-decoration: none;
+font-size: 11px;
+font-weight: bold;
+
+padding-left: 10px; 
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+cursor: pointer;
+}
+#botao_andamento{
+	border: 0px solid #D1E1FA;
+	background-image:url(../imagens/botao_inferior.jpg);
+	color: #2e6e9e; 
+	
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	text-decoration: none;
+	font-size: 11px;
+	font-weight: bold;
+	
+	padding-left: 10px; 
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}

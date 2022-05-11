@@ -1,0 +1,51 @@
+#slider ul, #slider li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#slider li { 
+	width:760px;
+	height:250px;
+	overflow:hidden;
+}
+
+#slider2 ul, #slider2 li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#slider2 li { 
+	width: 230px;
+	height:250px;
+	overflow:hidden;
+}
+
+/* numeric controls */	
+ol#controls{
+	margin: 5px 0 0 5px;
+	padding:0;
+	height:28px;	
+	}
+ol#controls li{
+	margin:0 10px 0 0; 
+	padding:0;
+	float:left;
+	list-style:none;
+	height:28px;
+	line-height:28px;
+	}
+ol#controls li a{
+	float:left;
+	height:28px;
+	line-height:28px;
+	border:1px solid #ccc;
+	background:#FFFFFF;
+	color:#555;
+	padding:0 10px;
+	text-decoration:none;
+	}
+ol#controls li.current a{
+	background:#DAF3F8;
+	color: #5DC9E1;
+	}
+ol#controls li a:focus {outline:none;}

@@ -1,0 +1,197 @@
+﻿@media all {
+	.page-break	{ display: none; }
+}
+
+@media print {
+	.page-break	{ display: block; page-break-before: always; }
+}
+body {
+	font-family: Verdana, Geneva, sans-serif; 
+	margin: 5px;
+	color: #000000;
+}
+
+/* cabecalho */
+.cabecalho_titulo, .filtro_geral_titulo {
+	padding: 4px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	border: 1px solid #4297d7; 
+	background: #5c9ccc url(../imagens/jqgrid/ui-bg_gloss-wave_55_5c9ccc_500x100.png) 50% 50% repeat-x; 
+	color: #ffffff; 
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	font-size: 11px;
+	font-weight: bold;
+}
+.cabecalho_titulo a:link, .cabecalho_titulo a:visited, .cabecalho_titulo a:active, .filtro_geral_titulo a:link, .filtro_geral_titulo a:visited, .filtro_geral_titulo a:active {
+	text-decoration: none;
+	color: #FFF;
+}
+.cabecalho_titulo a:hover, .filtro_geral_titulo a:hover{
+	text-decoration: none;
+	color: #FF0;
+}
+/* fim - cabecalho */
+
+/* cabecalho_geral */
+.cabecalho_geral_tabela{
+	width: 1000px;
+	border: 0px solid #000;
+	margin-bottom: 5px;
+	font-size: 11px;
+	line-height: 1.5em;
+}
+	.cabecalho_geral_tabela td{
+		padding-left: 3px;
+		padding-right: 3px;
+	}
+/* fim - cabecalho_geral */
+		
+.registro{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+	.titulo{
+		width: 100%;
+		border: 0px solid #000;
+	}
+		.titulo td{
+			text-align: center;
+			font-size: 14px;
+			font-weight: bold;
+			padding: 0;
+		}
+	.header{
+		width: 100%;
+		border: 0px solid #000;
+		margin-bottom: 5px;
+		font-size: 11px;
+	}
+		.header td{
+			padding-left: 3px;
+			padding-right: 3px;
+			line-height: 1.5em;
+		}		
+	.registro_tabela{
+		width: 100%;
+		border: 0;
+		margin-bottom: 5px;
+		font-size: 10px;
+	}
+		.registro_tabela th{
+			padding: 3px;
+			border-top: 0px solid #000;
+			border-bottom: 1px solid #000;
+			text-align: left;
+			color: #000;
+		}
+		.registro_tabela td{
+			padding: 3px;
+			text-align: left;
+			color: #000;
+		}
+		.registro_tabela .linha1{
+			background-color: #EEE;
+			color: #000;
+		}
+		.registro_tabela .linha2{
+			background-color: #FFF;
+			color: #000;
+		}
+	.footer{
+		width: 1000px;
+		text-align: center;
+		font-size: 12px;
+		font-weight: normal;
+		line-height: 1.5em;
+	}
+
+/* filtros */
+.div_filtros {
+	padding: 5px;
+	margin: 5px;
+	background-color: #F1F1F1;
+	font-size: 12px;
+}
+
+.div_filtros2 {
+	padding: 5px;
+	margin: 5px;
+	background-color: #FFFFFF;
+}
+
+.label_solicitacao {
+	color: #2e6e9e;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+
+/* botao_geral */
+.botao_geral, #botao_geral {
+	float: left;
+	display: block;
+	border: 2px solid #FFFFFF;
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	text-decoration: none;
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 6px;
+	margin: 1px;
+	cursor: pointer;
+	background-image:url(../imagens/botao_inferior.jpg);
+	color: #2e6e9e;
+}
+.botao_geral:hover, #botao_geral:hover {
+	background: #5c9ccc url(../imagens/jqgrid/ui-bg_gloss-wave_55_5c9ccc_500x100.png) 50% 50% repeat-x;
+	color: #FF0;
+}
+.botao_geral2, #botao_geral2 {
+	float: left;
+	display: block;	
+	border: 2px solid #c5dbec;
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	text-decoration: none;
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 6px;
+	margin: 1px;
+	cursor: pointer;
+	background-image:url(../imagens/botao_inferior.jpg);
+	color: #2e6e9e;
+}
+.botao_geral2:hover, #botao_geral2:hover {
+	background: #5c9ccc url(../imagens/jqgrid/ui-bg_gloss-wave_55_5c9ccc_500x100.png) 50% 50% repeat-x;
+	color: #FF0;
+}
+/* fim - botao_geral */
+/* fim - filtros */
+
+/* form */
+form {
+	margin: 0 0 0 0;
+padding: 0 0 0 0;
+}
+input, select, textarea {
+	font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; 
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+}
+fieldset {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+.checkbox {
+	border: 0px;
+}
+.input[readonly], input[disabled], select[readonly], select[disabled], textarea[readonly], textarea[disabled], campo_desabilitado {
+	background-color: #F3F3F3;
+	color: #999;
+}
+/* fim - form */

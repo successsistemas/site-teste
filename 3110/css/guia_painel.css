@@ -1,0 +1,175 @@
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.5em;
+	color: #3e3e3e;
+	text-align: center;
+	margin: 0px;
+	background: #E3EFFD url(../imagens/fundo_painel.jpg) repeat-x  center top;	
+}
+.cabecalho{
+	width: 1000px; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+.corpo{
+	width: 1000px;
+	margin-left: auto; 
+	margin-right: auto;
+}
+	.corpo .texto{
+		text-align: justify;
+		line-height: 1.5em;
+	}
+	.corpo .texto .titulo{
+		background-color: #DDD;
+		padding: 5px;
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 13px; 
+		font-weight: bold;
+	}
+	.corpo .texto .caminho{
+		padding-top: 5px;
+		padding-bottom: 15px;
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 11px;
+	}
+	.corpo .texto .conteudo {	
+		text-align: justify;
+	}
+	.corpo .texto .padrao_esquerda{
+		vertical-align: top;
+		width: 200px;
+		background: #C0C0C0 url(../imagens/padrao_esquerda_rodape.jpg) repeat-y top center;
+		font-size: 12px;
+	}
+	
+			/* menu */
+			#accordion {
+				list-style: none;
+				padding: 0px;
+				margin: 0px;
+				width: 100%;
+			}
+			#accordion div.menu_titulo { /* bmenu */
+				color: #000;
+				background-color: #B3D0E7;
+				padding-left: 10px;
+				padding-right: 10px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+				border-bottom: 1px solid #FFF;
+				cursor: pointer;
+			}
+			#accordion div.menu_titulo:hover {
+				background-color: #478CC5;
+				font-size: 12px;
+				font-weight:  bold;
+			}
+			#accordion ul {
+				list-style: none;
+				display: none;
+				padding: 0px;
+			}
+			#accordion ul li { /* submenu */
+				background-color: #F1F1F1;
+				padding-left: 5px;
+				padding-right: 5px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+				border-bottom: 1px solid #FFF;
+			}
+			#accordion ul li:hover {
+				background-color: #CCC;
+			}
+			#accordion a {
+				text-decoration: none;
+				color:#000;
+			}
+			#accordion a:hover {
+				text-decoration: none;
+				color: #FFF;
+				font-size: 14px;
+			}
+			/* fim - menu */
+			
+	.corpo .texto .padrao_centro{
+		vertical-align: top;
+		background: #FFFFFF url(../imagens/padrao_centro.jpg) no-repeat top center;
+		padding: 10px;
+	}
+	.corpo .texto .padrao_centro .linha{
+		margin-top: 10px;
+		margin-bottom: 10px;
+		height: 2px;
+		background-color: #000;
+	}
+.rodape{
+	margin-left: auto; 
+	margin-right: auto;
+	background-color: #1C3451;
+	color: #FFF;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/* formulários */
+form {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+	padding: 5px;
+}
+select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+	padding: 5px;
+}
+textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+	padding: 5px;	
+}
+/* fim - formulários */
+
+/* links */
+a:link, a:visited, a:active {
+	color: #333;
+	text-decoration: none;
+}
+ a:hover {
+	color: #06C;
+	text-decoration: none;
+}
+a.link_branco:link, a.link_branco:visited, a.link_branco:active {
+	color: #FFF; 
+	text-decoration: none;
+}
+a.link_branco:hover {
+	color: #F90; text-decoration: none;
+}
+/* fim - links */
+
+.KT_edit_link {
+	padding-left: 5px; 
+	padding-right: 5px;
+	font-weight: bold;
+}
+.KT_delete_link {
+	padding-left: 5px; 
+	padding-right: 5px;	
+	font-weight: bold;
+}

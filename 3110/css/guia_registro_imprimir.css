@@ -1,0 +1,12 @@
+﻿.cabecalho{
+	display: none;
+}
+.filtro_geral{
+	display: none;
+}
+.imprimir{
+	display: none;
+}
+.registro .registro_tabela{
+	font-size: 11px;
+}

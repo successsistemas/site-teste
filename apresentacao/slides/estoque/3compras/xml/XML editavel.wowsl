@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>modelo ok slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/shady/</ImageTemplate>
+            <ImageTemplateName>Shady</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Success/Desktop/Telas/3compras/xml/slide_xml.html</PublishFileName>
+            <PublishIndex>slide_xml.html</PublishIndex>
+            <PublishPath>C:/Users/Success/Desktop/Telas/3compras/xml</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>16</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>shady</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>prints/xml/4xml.jpg</url>
+                <title>REC. MERCADORIAS - ARQUIVO XML / DONWLOAD XML </title>
+                <filesize>140772</filesize>
+            </Image>
+            <Image>
+                <url>prints/xml/7vali.jpg</url>
+                <title>REC. MERCADORIAS - INICIAR VALIDAÇÃO TOTAL</title>
+                <filesize>144851</filesize>
+            </Image>
+            <Image>
+                <url>prints/xml/8vali.jpg</url>
+                <title>REC. MERCADORIAS - ATRIBUIR CÓDIGO / ASSOCIAR PRODUTO</title>
+                <filesize>149386</filesize>
+            </Image>
+            <Image>
+                <url>prints/xml/9import.jpg</url>
+                <title>REC. MERCADORIAS - DESTINO IMPORTAÇÃO </title>
+                <filesize>194935</filesize>
+            </Image>
+            <Image>
+                <url>prints/xml/10compo.jpg</url>
+                <title>REC. MERCADORIAS - COMPOSIÇÃO VALOR DE VENDA</title>
+                <filesize>152471</filesize>
+            </Image>
+            <Image>
+                <url>prints/xml/11conclu.jpg</url>
+                <title>REC. MERCADORIAS - conclusão importação</title>
+                <filesize>153016</filesize>
+            </Image>
+            <Image>
+                <url>prints/xml/12dados.jpg</url>
+                <title>REC. MERCADORIAS - DADOS nfe IMPORTADOS </title>
+                <filesize>240248</filesize>
+            </Image>
+            <Image>
+                <url>prints/xml/13produ.jpg</url>
+                <title>REC. MERCADORIAS -  produtos importados</title>
+                <filesize>168641</filesize>
+            </Image>
+            <Image>
+                <url>prints/xml/14fatu.jpg</url>
+                <title>REC. MERCADORIAS - FATURAMENTO</title>
+                <filesize>152861</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>modelo ok slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/shady/</ImageTemplate>
+            <ImageTemplateName>Shady</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Success/Desktop/Telas/6entrega/slide_entrega.html</PublishFileName>
+            <PublishIndex>slide_entrega.html</PublishIndex>
+            <PublishPath>C:/Users/Success/Desktop/Telas/6entrega</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>13</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>shady</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>print/1entrega.jpg</url>
+                <title>tela entrega de estoque - entregue / a entregar</title>
+                <filesize>184638</filesize>
+            </Image>
+            <Image>
+                <url>print/2incluentrega.jpg</url>
+                <title>Tela entrega de estoque - Selecionar itens a entregar</title>
+                <filesize>157779</filesize>
+            </Image>
+            <Image>
+                <url>print/3incluentrega.jpg</url>
+                <title>Tela entrega de estoque - quantidade </title>
+                <filesize>217829</filesize>
+            </Image>
+            <Image>
+                <url>print/4incluido.jpg</url>
+                <title>Tela entrega de estoque - quantidade entregue</title>
+                <filesize>191466</filesize>
+            </Image>
+            <Image>
+                <url>print/5doc.jpg</url>
+                <title>Tela entrega de estoque - impressão entrega de estoque</title>
+                <filesize>76453</filesize>
+            </Image>
+            <Image>
+                <url>print/6entregue.jpg</url>
+                <title>Tela entrega de estoque - status da entrega</title>
+                <filesize>149407</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>modelo ok slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/shady/</ImageTemplate>
+            <ImageTemplateName>Shady</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Success/Desktop/Telas/8controleestoque/consultas/2consultaitens/slide_consultaitens.html</PublishFileName>
+            <PublishIndex>slide_consultaitens.html</PublishIndex>
+            <PublishPath>C:/Users/Success/Desktop/Telas/8controleestoque/consultas/2consultaitens</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>13</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>shady</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>print/1consultaiten.jpg</url>
+                <title>tela consulta itens de estoque</title>
+                <usertarget>_self</usertarget>
+                <filesize>316917</filesize>
+            </Image>
+            <Image>
+                <url>print/2procura.jpg</url>
+                <title>tela consulta itens de estoque - procura por código</title>
+                <filesize>286917</filesize>
+            </Image>
+            <Image>
+                <url>print/2procura1.jpg</url>
+                <title>tela consulta itens de estoque - procura por nome</title>
+                <filesize>288951</filesize>
+            </Image>
+            <Image>
+                <url>print/3comple.jpg</url>
+                <title>tela consulta itens de estoque - complemento</title>
+                <filesize>214891</filesize>
+            </Image>
+            <Image>
+                <url>print/4vlr.jpg</url>
+                <title>tela consulta itens de estoque - valor a prazo</title>
+                <filesize>236731</filesize>
+            </Image>
+            <Image>
+                <url>print/5similar.jpg</url>
+                <title>tela consulta itens de estoque - similares</title>
+                <filesize>323456</filesize>
+            </Image>
+            <Image>
+                <url>print/6serielote.jpg</url>
+                <title>tela consulta itens de estoque - série / lote / grade </title>
+                <filesize>311585</filesize>
+            </Image>
+            <Image>
+                <url>print/7saldos.jpg</url>
+                <title>tela consulta itens de estoque - saldo entre empresas</title>
+                <filesize>195489</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>modelo ok slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/shady/</ImageTemplate>
+            <ImageTemplateName>Shady</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Success/Desktop/Telas/2produtos/3ficha/slide_fichaestoque.html</PublishFileName>
+            <PublishIndex>slide_fichaestoque.html</PublishIndex>
+            <PublishPath>C:/Users/Success/Desktop/Telas/2produtos/3ficha</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>16</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>shady</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>0ficha.jpg</url>
+                <title>Tela Ficha de estoque</title>
+                <filesize>197440</filesize>
+            </Image>
+            <Image>
+                <url>1filtro.jpg</url>
+                <title>Tela Ficha de estoque - filtro </title>
+                <filesize>157165</filesize>
+            </Image>
+            <Image>
+                <url>2saldos.jpg</url>
+                <title>Tela Ficha de estoque - saldos de estoque entre empresas</title>
+                <filesize>150367</filesize>
+            </Image>
+            <Image>
+                <url>3imprimir.jpg</url>
+                <title>Tela Ficha de estoque - diário ficha  estoque</title>
+                <filesize>94967</filesize>
+            </Image>
+            <Image>
+                <url>4complemento.jpg</url>
+                <title>Tela Ficha de estoque - complemento</title>
+                <filesize>173736</filesize>
+            </Image>
+            <Image>
+                <url>5resumo.jpg</url>
+                <title>Tela Ficha de estoque - resumo mensal de movimentação</title>
+                <filesize>160480</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
